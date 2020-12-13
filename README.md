@@ -1,5 +1,5 @@
 # fuck_the_current_ms_github
-a copy of https://gitee.com/wconly/hello_world  
+原地址：https://gitee.com/wconly/hello_world  
 
 #### 描述
 
